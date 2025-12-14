@@ -10,21 +10,13 @@ Jubeatmemoから移植したStepMania譜面置き場です。
 
 
 
-\### 1. 曲名 (Title)
-
-\* \*\*Artist:\*\* アーティスト名
-
-\* \*\*Level:\*\* 10
-
-\* \*\*Download:\*\* \[ZIP Download](./MySong\_Hardcore.zip)
-
-
-
-\### 2. 次の曲名
-
-\* \*\*Download:\*\* \[ZIP Download](./NextSong.zip)
-
-
+曲名/アーティスト名/
+AIR RAID FROM THA UNDAGROUND / GUHROOVY [Download](./AIR RAID FROM THA UNDAGROUND.zip)
+Beastie Starter/GUHROOVY [Download](./Beastie Starter.zip)
+Dream drip macchiato/BEMANI Sound Team "TAG" [Download](./Dream drip macchiato.zip)
+HEAVENLY MOON / Tatsh [Download](./HEAVENLY MOON.zip)
+STELLAR WIND / L.E.D. [Download](./STELLAR WIND.zip)
+WONDER WALKER / L.E.D. [Download](./WONDER WALKER.zip)
 
 ---
 
