@@ -1,8 +1,8 @@
-\# My StepMania Charts
+# My StepMania Charts
 
 Jubeatmemoから移植したStepMania譜面置き場です。
 
-曲リスト
+# 曲リスト
 
 曲名/アーティスト名/
 [AIR RAID FROM THA UNDAGROUND / GUHROOVY](./AIR RAID FROM THA UNDAGROUND.zip)
